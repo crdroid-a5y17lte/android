@@ -30,7 +30,13 @@
            sync-j="4"
            revision="refs/heads/11.0" />
 
-    <remote  name="crDroid11"
+  <remote  name="crDroid11"
+           fetch="https://github.com/"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/11.0" />
+
+  <remote  name="crdroid-a5y17lte"
            fetch="https://github.com/"
            sync-c="true"
            sync-j="4"

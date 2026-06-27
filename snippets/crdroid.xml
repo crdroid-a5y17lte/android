@@ -49,7 +49,7 @@
   <project path="external/zlib" name="crdroidandroid/android_external_zlib" remote="crdroid" />
 
   <project path="frameworks/av" name="crDroid11/android_frameworks_av" remote="crDroid11" />
-  <project path="frameworks/base" name="crDroid11/android_frameworks_base" remote="crDroid11" />
+  <project path="frameworks/base" name="crdroid-a5y17lte/android_frameworks_base" remote="crDroid11" />
   <project path="frameworks/libs/systemui" name="crdroidandroid/android_frameworks_libs_systemui" remote="crdroid" />
   <project path="frameworks/native" name="crDroid11/android_frameworks_native" remote="crDroid11" />
   <project path="frameworks/opt/net/wifi" name="crDroid11/android_frameworks_opt_net_wifi" remote="crDroid11" />
