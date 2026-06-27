@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- crDroid additions -->
-  <project path="android" name="ccrdroid-a5y17lte/android" remote="crdroid-a5y17lte" />
+  <project path="android" name="crdroid-a5y17lte/android" remote="crdroid-a5y17lte" />
 
   <project path="art" name="crdroidandroid/android_art" remote="crdroid" />
 
