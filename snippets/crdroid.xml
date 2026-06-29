@@ -127,7 +127,7 @@
   <project path="vendor/qcom/opensource/commonsys-intf/bluetooth" name="crdroidandroid/android_vendor_qcom_opensource_bluetooth-commonsys-intf" remote="crdroid" />
   <project path="vendor/qcom/opensource/commonsys/bluetooth_ext" name="crdroidandroid/android_vendor_qcom_opensource_bluetooth_ext" remote="crdroid" />
   <project path="vendor/qcom/opensource/commonsys/packages/apps/Bluetooth" name="crDroid11/android_vendor_qcom_opensource_packages_apps_Bluetooth" remote="crDroid11" />
-  <project path="vendor/qcom/opensource/commonsys/system/bt" name="crDroid11/android_vendor_qcom_opensource_system_bt" remote="crDroid11" />
+  <project path="vendor/qcom/opensource/commonsys/system/bt" name="crdroid-a5y17lte/android_vendor_qcom_opensource_system_bt" remote="crdroid-a5y17lte" />
   <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="crdroidandroid/android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="crdroid" />
   <project path="vendor/qcom/opensource/power" name="crdroidandroid/android_vendor_qcom_opensource_power" remote="crdroid" />
 </manifest>
